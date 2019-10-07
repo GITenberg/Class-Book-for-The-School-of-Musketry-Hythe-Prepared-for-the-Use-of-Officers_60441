@@ -1,11 +1,16 @@
 _repo: Class-Book-for-The-School-of-Musketry-Hythe-Prepared-for-the-Use-of-Officers_60441
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60441-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Wilford, E. C.
     gutenberg_agent_id: '50960'
     url: http://www.gutenberg.org/2009/agents/50960
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60441#Class-Book-for-The-School-of-Musketry-Hythe-Prepared-for-the-Use-of-Officers
 gutenberg_issued: '2019-10-06'
 gutenberg_type: Text
 identifiers:
